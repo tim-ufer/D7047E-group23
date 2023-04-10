@@ -1,4 +1,4 @@
-# Advanced Deep Learning (D7047E) - Group23
+# Advanced Deep Learning (D7047E) - Group 23
 This is the submission repository for group 23 of the LTU course Advanced Deep Learning (D7047E). The exercises are grouped into directories containing the relevant code files and supplementary material like screenshots.
 
 ### Members
